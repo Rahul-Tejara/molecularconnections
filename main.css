@@ -30,13 +30,13 @@ div[data-tree-model] li {
 
 div[data-tree-model] li .expanded {
   padding: 0px 16px;
-  background-image: url("../image/open.png");
+  background-image: url("http://cfile23.uf.tistory.com/image/205B973A50C13F4B19D9BD");
   background-repeat: no-repeat;
 }
 
 div[data-tree-model] li .collapsed {
   padding: 0px 16px;
-  background-image: url("../image/close.png");
+  background-image: url("http://cfile23.uf.tistory.com/image/1459193A50C13F4B1B05FB");
   background-repeat: no-repeat;
 }
 
